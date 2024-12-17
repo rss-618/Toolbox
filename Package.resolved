@@ -1,0 +1,15 @@
+{
+  "originHash" : "6c9ae32fc6297d2beca6c80839c131c7233d23b2a97697a19293e920d5a892e8",
+  "pins" : [
+    {
+      "identity" : "adaptivesheet",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/rss-618/AdaptiveSheet",
+      "state" : {
+        "revision" : "3f0d30e69cc7dc80ca13057db7dca12ed4059cb7",
+        "version" : "1.0.0"
+      }
+    }
+  ],
+  "version" : 3
+}
